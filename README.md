@@ -14,25 +14,18 @@
 > "I don't write code; I orchestrate intelligence."
 
 ```mermaid
-graph TD
-  subgraph Commander [指挥中心]
-    You(User: Mymine) -->|指令 /prompts| Brain(AnythingLLM Core)
-  end
-
-  Brain -->|/code| Dev[01_App_Dev_Lab]
-  Brain -->|/godot| Game[02_Game_Studio]
-  Brain -->|/grok| Mkt[03_Growth_Team]
-
-  Dev -->|Context| Cursor(Cursor AI)
-  Game -->|Assets| Godot(Godot Engine)
-  Mkt -->|Viral| Social(TikTok/X)
-
-  Cursor --> Product(Global SaaS)
-  Godot --> Product2(Indie Game)
-  Social --> Traffic(Revenue $$)
-
-  style Commander fill:#0d1117,stroke:#20C20E,stroke-width:2px,color:#fff
-  style Brain fill:#161b22,stroke:#007ACC,stroke-width:2px,color:#fff
-  style Product fill:#20C20E,stroke:#fff,stroke-width:2px,color:#000
-  style Product2 fill:#20C20E,stroke:#fff,stroke-width:2px,color:#000
+graph LR
+    Command(You: The Commander) -->|Prompts| Brain(AnythingLLM Core)
+    Brain -->|/pm| PM[Product Architect]
+    Brain -->|/code| Dev[Cursor Commander]
+    Brain -->|/grok| Mkt[Grok Viral Master]
+    subgraph Agents [11 Agent Roles]
+        direction TB
+        A[01_App Lab]
+        B[02_Game Studio]
+        C[03_Growth Team]
+    end
+    Brain -->|Orchestration| Agents
+    Dev -->|Refined Context| Cursor(Cursor AI)
+    Cursor -->|Final Build| Product(Global SaaS/Game)
 ```
