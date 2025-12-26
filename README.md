@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Alrescha0312/Alrescha_Spaceship/blob/main/public/Alrescha%E6%A0%87%E9%A2%98%E8%B7%B3%E5%8A%A8-%E9%80%8F%E6%98%8E.gif">
+  <img src="./Alrescha标题跳动-透明.gif" width="100%">
 </div>
 
 <div align="center">
@@ -8,9 +8,38 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="https://github.com/Alrescha0312/Alrescha_Spaceship/blob/main/public/%E6%89%93%E6%8B%9B%E5%91%BC.gif"
-</div>
+<br/>
+
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <h2>👨‍🚀 Hi, I'm Alrescha</h2>
+      <br>
+      <b>Global Product Architect (CPO) & Indie Hacker</b>
+      <br>
+      <i>Captain of the "Alrescha" Starship.</i>
+      <br><br>
+      Hi, I'm Alrescha.<br/>Welcome aboard! I am the Captain of this digital starship and a Global Product Architect.<br/>I specialize in navigating the chaos of product development. My mission is to help founders turn wild ideas into global applications using AI-Native workflows. I don't just write code; I orchestrate AI agents to build scalable systems.<br/>
+      <b>Currently exploring the edge of the universe with:<b>
+      <br><br>
+      <ul>
+        <li>🔭 <b>Stack:</b> Next.js, Supabase, Tailwind, Framer Motion</li>
+        <li>🤖 <b>AI Ops:</b> Cursor, Midjourney, v0.dev</li>
+        <li>🌍 <b>Focus:</b> US/EU Tier 1 Markets</li>
+      </ul>
+      <br>
+      <a href="mailto:alexneo4513@gmail.com">
+        <img src="https://img.shields.io/badge/Email-Contact_Me-f0f0f0?style=for-the-badge&logo=gmail&logoColor=red" alt="Email" />
+      </a>
+      &nbsp; <a href="https://twitter.com/你的推特账号">
+        <img src="https://img.shields.io/badge/X-Follow_Me-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+      </a>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="./船长打招呼-透明-5秒.gif" width="100%" alt="Captain Alrescha" />
+    </td>
+  </tr>
+</table>
 
 <br>
 
