@@ -1,11 +1,15 @@
 <div align="center">
-  <img src="./Alrescha-gif.gif" width="600" alt="Web Demo">
+  <img src="https://github.com/Alrescha0312/Alrescha_Spaceship/blob/main/public/Alrescha%E6%A0%87%E9%A2%98%E8%B7%B3%E5%8A%A8-%E9%80%8F%E6%98%8E.gif">
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&width=435&lines=Industrial+Vibe+Coding+Practitioner;One-Person+AI+Company+Founder;Orchestrating+11+AI+Agents" alt="Typing SVG" />
   </a>
+</div>
+
+<div align="center">
+  <img src="https://github.com/Alrescha0312/Alrescha_Spaceship/blob/main/public/%E6%89%93%E6%8B%9B%E5%91%BC.gif"
 </div>
 
 <br>
