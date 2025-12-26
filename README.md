@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./Alrescha标题跳动-透明.gif" width="100%">
+  <img src="./Alrescha-title-跳动.gif" width="100%">
 </div>
 
 <div align="center">
