@@ -19,7 +19,7 @@
       <br>
       <i>Captain of the "Alrescha" Starship.</i>
       <br><br>
-      Hi, I'm Alrescha.<br/>Welcome aboard! I am the Captain of this digital starship and a Global Product Architect.<br/>I specialize in navigating the chaos of product development. My mission is to help founders turn wild ideas into global applications using AI-Native workflows. I don't just write code; I orchestrate AI agents to build scalable systems.<br/>
+      Welcome aboard!<br/>I am the Captain of this digital starship and a Global Product Architect.<br/>I specialize in navigating the chaos of product development. My mission is to help founders turn wild ideas into global applications using AI-Native workflows. I don't just write code; I orchestrate AI agents to build scalable systems.<br/>
       <b>Currently exploring the edge of the universe with:<b>
       <br><br>
       <ul>
