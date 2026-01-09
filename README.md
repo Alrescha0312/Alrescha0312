@@ -33,7 +33,7 @@
       <a href="mailto:alexneo4513@gmail.com">
         <img src="https://img.shields.io/badge/Email-Contact_Me-f0f0f0?style=for-the-badge&logo=gmail&logoColor=red" alt="Email" />
       </a>
-      &nbsp; <a href="https://twitter.com/你的推特账号">
+      &nbsp; <a href="https://x.com/NeoAlex4513">
         <img src="https://img.shields.io/badge/X-Follow_Me-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
       </a>
     </td>
